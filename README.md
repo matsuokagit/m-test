@@ -1,1 +1,3 @@
-# m-test �M�b�g�u�K��Ńe�X�g�ō�������|�W�g��
+# m-test ギット講習会でテストで作ったリポジトリ
+
+＜git上で編集＞
